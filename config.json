@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/blahbhah",
+    "prod_uri":"mysql://root:@localhost/blahbhah",
+    "fb_url":"https://facebook.com/blahbhah",
+    "tw_url":"https://twitter.com/blahbhah",
+    "gh_url": "https://github.com/blahbhah",
+    "blog_name": "blah blah",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "bolo JAI SHRI RAM",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"blah",
+    "admin_password": "blahblah",
+    "upload_location":"C:\\Users\\blah\\PycharmProjects\\Flask-tut\\static"
+
+
+  }
+
+}
